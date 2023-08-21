@@ -1,0 +1,3 @@
+c=int(input("ENTER TEMPERATURE IN CELCIUS:"))
+f=(9/5*c)+32
+print("TEMPERATURE IN FAHRENHIET :",f)
